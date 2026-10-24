@@ -1,6 +1,5 @@
 import java.util.*;
 
-import javax.swing.text.Position;
 
 public class Q1Test {
      public static void main(String[] args) {
@@ -219,7 +218,7 @@ public class Q1Test {
                }
           }
 
-          return "Invalid Traversals";
+          return "Invalid traversals";
      }
 }
 
